@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/keni0112/Dropbox/R-src'
+let g:netrw_dirhist_2='/Users/keni0112/Dropbox'
+let g:netrw_dirhist_3='/Users/keni0112/Dropbox/R-src'
+let g:netrw_dirhist_4='/Users/keni0112/Dropbox/R-src/MasterThesis'
+let g:netrw_dirhist_5='/Users/keni0112/Dropbox/include/boost'
+let g:netrw_dirhist_6='/Users/keni0112/.tmuxinator'
+let g:netrw_dirhist_7='/Users/ShinyaKikuchi/.vim'
+let g:netrw_dirhist_8='/Users/kikuchi13/.vim'
